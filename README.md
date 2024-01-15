@@ -22,5 +22,5 @@ This project leverages the power of Llama-2, here using the quantized version (l
    
 ## Dependencies
 Llama-2-7B ggml
-Download from the HuggingFace the [pruned smaller version](https://huggingface.co/TheBloke/Llama-2-7B-GGML/tree/main) like me or you can use the (Official Llama-2 from meta version)[https://ai.meta.com/llama/]
+Download from the HuggingFace the [pruned smaller version](https://huggingface.co/TheBloke/Llama-2-7B-GGML/tree/main) like me or you can use the [Official Llama-2 from meta version](https://ai.meta.com/llama/)
 
